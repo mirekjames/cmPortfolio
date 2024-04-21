@@ -18,8 +18,8 @@ These ideas may or may not ever take on a traditional academic format - the best
 - [Selfie](images/selfie.jpg)
 - [what's all this about?](about.html)
 - Throughlines
-	- [Download Instructions PDF](ThroughlinesInstructions.pdf)
-	- [Right-click and select "Save link as..." to download .html file for importing into Twine](Throughlines.html)
+	- [Download Instructions PDF](downloads/ThroughlinesInstructions.pdf)
+	- [Right-click and select "Save link as..." to download .html file for importing into Twine](downloads/Throughlines.html)
 - [Mombasa on Google Earth](https://earth.google.com/earth/d/16YTE3MbL6EG6NF-tWpTYx_iGi6XOU2mA?usp=sharing)
 - [Rules Lawyer](comic.html)
 - [Justice](justice.html)
